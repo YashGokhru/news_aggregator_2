@@ -1,5 +1,5 @@
 const express = require("express");
-// require('ejs');
+
 require("../src/config/DbConnection");
 const app = express();
 const jwt = require("jsonwebtoken");
@@ -13,6 +13,12 @@ const CommentRoutes = require("./routes/CommentRoutes");
 const ProfileRoutes = require("./routes/ProfileRoutes");
 const cookieParser = require("cookie-parser");
 const path = require("path");
+
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4000');
+  // Other headers and settings...
+  next();
+});
 
 console.log({ path: path.resolve(__dirname, "../.env") });
 const dotenv = require("dotenv").config({
