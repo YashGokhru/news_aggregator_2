@@ -10,7 +10,7 @@ const validateToken = require("../middleware/validateToken");
 
 //For Home
 router.get("/", validateToken, Home);
-router.get("/posts/", HomePage);
+router.get("/posts/", validateToken,HomePage);
 router.get("/posts/:_id",PostPage);
 router.post("/post/vote/:_id",validateToken, vote);
 module.exports = router;
