@@ -42,7 +42,8 @@ export class Create extends Component {
             alert("Password cannot be null");
             return;
         }
-
+        console.log(this.props.url + '/user/login');
+        console.log(this.state);
         const response = await fetch(this.props.url + '/user/login', {
             method: 'POST',
             headers: {
@@ -58,7 +59,7 @@ export class Create extends Component {
             return
         }
         const data = await response.json();
-
+        console.log("respose : " , response)
         console.log(data);
         if (response.status === 200) {
             alert(data.message);

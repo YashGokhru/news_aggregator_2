@@ -11,7 +11,7 @@ import Create from './components/Create';
 import Login from './components/Login';
 import Postpage from './components/Postpage';
 
-const apiRoute = 'http://localhost:3001'
+const apiRoute = 'https://news-aggregator-lmzc.onrender.com'
 function App() {
   document.body.style.backgroundColor = "#1a1d20";
 

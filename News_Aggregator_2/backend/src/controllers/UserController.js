@@ -69,7 +69,7 @@ const LoginUser = async (req, res) => {
     const oneday = 24 * 60 * 60 * 1000;
     res.cookie("jwt", accessToken, {
       expires: new Date(Date.now() + oneday),
-      // httpOnly: true,
+      httpOnly: true,
     });
 
     return res.status(200).send({ message: "Successfully logged in" });
