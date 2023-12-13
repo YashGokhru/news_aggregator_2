@@ -15,8 +15,9 @@ const cookieParser = require("cookie-parser");
 const path = require("path");
 
 app.use((req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:4000');
-  // Other headers and settings...
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST'); // Allow GET and POST requests
+  res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization'); // Adjust allowed headers
   next();
 });
 

@@ -37,6 +37,20 @@ const HomePage =  async (req, res) => {
     }
 }
 
+const hasVotedPost = async (postid) => {
+    try {
+      const userid= req.user.id;
+      let v = 0;
+
+      const vote = await PostVote.findOne({userid : userid , postid : postid }).select('vote').lean();
+      if(vote){
+        return vote;
+      }
+      return v;
+    } catch (err){
+      return 0;
+    }
+}
 const PostPage =  async (req, res) => {
     try {
 
@@ -47,7 +61,7 @@ const PostPage =  async (req, res) => {
         const user = await User.findById(useris).select('_id name');
         console.log(user);
 
-        res.render('postpage',{post,user}); 
+        res.json({post,user}); 
         console.log("Post send");
 
     } catch (error) {

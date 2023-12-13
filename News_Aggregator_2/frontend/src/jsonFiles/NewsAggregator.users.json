@@ -1,0 +1,387 @@
+[{
+  "_id": {
+    "$oid": "65708d1aab8bf77685f92acc"
+  },
+  "name": "Smeet Agrawal",
+  "email": "202101237@daiict.ac.in",
+  "password": "$2b$10$IzNf.5j0FayYgbhpZSSbQ.uC1c2OoDr3gNcLgtwBnY0Q0IqyqEL1G",
+  "posts": [
+    {
+      "$oid": "65709011ab8bf77685f92ad1"
+    },
+    {
+      "$oid": "6570a2d97ebb16eab30a8d76"
+    },
+    {
+      "$oid": "65717d3fd3f0f8420e26ae36"
+    },
+    {
+      "$oid": "657180b7d3f0f8420e26afd7"
+    },
+    {
+      "$oid": "65719202cc0a78fcd22fe89d"
+    },
+    {
+      "$oid": "6571c3f1d8e69b08691c1333"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-06T15:02:50.576Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T13:09:06.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570a1410e7079ef5eaba860"
+  },
+  "name": "Hemant_Narayani",
+  "email": "202101253@daiict.ac.in",
+  "password": "$2b$10$BIbgTXIF6bHRUd4YvuLGhu2WrJer24kDczlZ1aYEAaG5jjHX2yzi2",
+  "posts": [
+    {
+      "$oid": "6570a2880e7079ef5eaba876"
+    },
+    {
+      "$oid": "6571790dd3f0f8420e26ac38"
+    },
+    {
+      "$oid": "6571794ed3f0f8420e26ac3e"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-06T16:28:49.746Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:50:38.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570a2820e7079ef5eaba874"
+  },
+  "name": "Yash Gokhru",
+  "email": "yashgokhru28@gmail.com",
+  "password": "$2b$10$o6J9Y7ZDC2I9RwrGC4TfRewuE.EHf6w7akJ7TEBNKgYzPXgRTbnve",
+  "posts": [
+    {
+      "$oid": "6570d45f553a24441da35fde"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-06T16:34:10.646Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-06T20:06:56.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571603ad3f0f8420e26a7a9"
+  },
+  "name": "Krisha",
+  "email": "202101262@daiict.ac.in",
+  "password": "$2b$10$ckeilAJqKqIVbi8AbKIjFOfRxO./YFmmJ0JZfH3GZjCES3MVoO6YK",
+  "posts": [
+    {
+      "$oid": "657167c1d3f0f8420e26a8d7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T06:03:38.720Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:35:45.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657160c6d3f0f8420e26a801"
+  },
+  "name": "Rachit",
+  "email": "pedu2402@gmail.com",
+  "password": "$2b$10$LbF1c6HdqCqICv6yrrM9zeMkbUi/9HwISD0IhhUTD5iIQVBbMIJza",
+  "posts": [
+    {
+      "$oid": "6571621cd3f0f8420e26a80a"
+    },
+    {
+      "$oid": "6571626ad3f0f8420e26a821"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T06:05:58.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:12:58.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571636dd3f0f8420e26a88f"
+  },
+  "name": "sharmaji",
+  "email": "sharma@1234",
+  "password": "$2b$10$Rimrc4MlKbzqLK4oVM4/guRcALBKDe7Q.RR74paZRl8bqAjYHS7my",
+  "posts": [],
+  "createdAt": {
+    "$date": "2023-12-07T06:17:17.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:17:17.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657163f1d3f0f8420e26a896"
+  },
+  "name": "sharmaji",
+  "email": "1234@gmail.com",
+  "password": "$2b$10$nNcx0NcxNytEGMTX46eZTOWl21/Io91d6.mIYvmEIWseEfs.Cipxy",
+  "posts": [
+    {
+      "$oid": "6571645cd3f0f8420e26a89b"
+    },
+    {
+      "$oid": "657164d3d3f0f8420e26a8a1"
+    },
+    {
+      "$oid": "65716550d3f0f8420e26a8a7"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T06:19:29.719Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:25:20.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657165c9d3f0f8420e26a8bb"
+  },
+  "name": "BigBrain",
+  "email": "4321@gmail.com",
+  "password": "$2b$10$DblpGaktcOmoKZa9p2RUeeRnW9TCYwEmq77JRLOvhui9gNo.MXhgu",
+  "posts": [
+    {
+      "$oid": "65716698d3f0f8420e26a8c0"
+    },
+    {
+      "$oid": "65716708d3f0f8420e26a8c6"
+    },
+    {
+      "$oid": "65716865d3f0f8420e26a903"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T06:27:21.922Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:38:29.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65716c00d3f0f8420e26aa55"
+  },
+  "name": "RachitSharma",
+  "email": "123456@gmail.com",
+  "password": "$2b$10$w1G.V7ukDt81Vi46Lot5rOfoxua4x56LlzALiUmv1/Rx9BZ1P3Dpi",
+  "posts": [
+    {
+      "$oid": "657181f9d3f0f8420e26b0d6"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T06:53:52.116Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:27:38.064Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65716e67d3f0f8420e26aac5"
+  },
+  "name": "Atharva",
+  "email": "atharvasanjay2003@gmail.com",
+  "password": "$2b$10$FmKoXXnz.asndvDgP49Z7OhKuRgN638Fl8HOB.AwLBWvsJkhFs0Bi",
+  "posts": [
+    {
+      "$oid": "65716ecad3f0f8420e26aacc"
+    },
+    {
+      "$oid": "65716eeed3f0f8420e26aad2"
+    },
+    {
+      "$oid": "65716f19d3f0f8420e26aad8"
+    },
+    {
+      "$oid": "65716f32d3f0f8420e26aade"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T07:04:07.319Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:07:30.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657171b7d3f0f8420e26ab41"
+  },
+  "name": "Siddhant_0411",
+  "email": "siddhantmeena5@gmail.com",
+  "password": "$2b$10$W8z3Ka8/5z9oOjIPCaj7K..ds9j9jisGUE7.a8tYk0JJ532j0nAd.",
+  "posts": [
+    {
+      "$oid": "65717e15d3f0f8420e26af17"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T07:18:15.820Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:11:01.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657171dad3f0f8420e26ab48"
+  },
+  "name": "Siddhant Patel",
+  "email": "sidpatel1436@gmail.com",
+  "password": "$2b$10$Drv8jZ0yX/jXmcLxI1PRweeZgOWO4iH6zqvpy2RbdZbRfvXALsDNW",
+  "posts": [
+    {
+      "$oid": "6571727ed3f0f8420e26ab52"
+    },
+    {
+      "$oid": "657172bcd3f0f8420e26ab61"
+    },
+    {
+      "$oid": "6571731cd3f0f8420e26ab81"
+    },
+    {
+      "$oid": "65717366d3f0f8420e26ab87"
+    },
+    {
+      "$oid": "65718078d3f0f8420e26afc2"
+    },
+    {
+      "$oid": "65718121d3f0f8420e26b024"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T07:18:50.219Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:24:02.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571766cd3f0f8420e26abd6"
+  },
+  "name": "Sahil",
+  "email": "202101219@daiict.ac.in",
+  "password": "$2b$10$a8XH23M3gQ12XOaAwm.3IeTMWwDx4a85y2Lw5juqJcWCBxhnZuaDe",
+  "posts": [],
+  "createdAt": {
+    "$date": "2023-12-07T07:38:20.120Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:40:07.423Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717a82d3f0f8420e26ac64"
+  },
+  "name": "Deven",
+  "email": "devenabc@gmail.com",
+  "password": "$2b$10$aZHpB68wtCMNz1LJFYRf/um6XOlKVLFPJ7irYkscRSp5qK8AtZtN2",
+  "posts": [
+    {
+      "$oid": "65717b07d3f0f8420e26ac69"
+    },
+    {
+      "$oid": "65717bcfd3f0f8420e26ac90"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T07:55:46.620Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:01:19.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d45d3f0f8420e26ae42"
+  },
+  "name": "QKGPGtHY",
+  "email": "ithkkAza@mkio.com",
+  "password": "$2b$10$apOVzrFRmzwiRy6Dd.ytvO.v32QEGFRCp5UlY3y5eFkQV437dVj4a",
+  "posts": [],
+  "createdAt": {
+    "$date": "2023-12-07T08:07:33.120Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:33.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717dd2d3f0f8420e26aee8"
+  },
+  "name": "gimerNE",
+  "email": "test90@gamil.com",
+  "password": "$2b$10$1PNnrPh/9pQG5VaRm5gBqORNMuKfciHIUNNN9zZO5AgDLD7/wQtIq",
+  "posts": [],
+  "createdAt": {
+    "$date": "2023-12-07T08:09:54.417Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:09:54.417Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657180a8d3f0f8420e26afd2"
+  },
+  "name": "Dev_Patel",
+  "email": "test45@gmail.com",
+  "password": "$2b$10$v.7WPVRmQA2Uz896TwVyUuC7o03HYK1ai5WOczQ8r1mgsmC40wEAG",
+  "posts": [
+    {
+      "$oid": "657181c5d3f0f8420e26b0b0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-12-07T08:22:00.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:26:45.901Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,608 @@
+[{
+  "_id": {
+    "$oid": "6570a30a0e7079ef5eaba8bb"
+  },
+  "userid": "6570a2820e7079ef5eaba874",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": null,
+  "content": "Ravi Bishnoi doing wonders.",
+  "noofreplies": 1,
+  "upvote": 2,
+  "downvote": 1,
+  "createdAt": {
+    "$date": "2023-12-06T16:36:26.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T09:38:28.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6570a3340e7079ef5eaba8ea"
+  },
+  "userid": "6570a1410e7079ef5eaba860",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": "6570a30a0e7079ef5eaba8bb",
+  "content": "very young bowler ",
+  "noofreplies": 2,
+  "upvote": 0,
+  "downvote": 1,
+  "createdAt": {
+    "$date": "2023-12-06T16:37:08.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T09:38:04.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65715f04d3f0f8420e26a78d"
+  },
+  "userid": "6570a2820e7079ef5eaba874",
+  "postid": "6570a2880e7079ef5eaba876",
+  "parentid": null,
+  "content": "The war should stop !!",
+  "noofreplies": 1,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T05:58:28.605Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:08:44.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657162a1d3f0f8420e26a84c"
+  },
+  "userid": "657160c6d3f0f8420e26a801",
+  "postid": "6570d45f553a24441da35fde",
+  "parentid": null,
+  "content": "this is a bummer",
+  "noofreplies": 1,
+  "upvote": 2,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T06:13:53.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:56.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657162edd3f0f8420e26a86d"
+  },
+  "userid": "657160c6d3f0f8420e26a801",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": null,
+  "content": "man of the series is a huge milestone!!",
+  "noofreplies": 1,
+  "upvote": 0,
+  "downvote": 2,
+  "createdAt": {
+    "$date": "2023-12-07T06:15:09.805Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:05:45.999Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571688ed3f0f8420e26a92a"
+  },
+  "userid": "657165c9d3f0f8420e26a8bb",
+  "postid": "657167c1d3f0f8420e26a8d7",
+  "parentid": null,
+  "content": "animal is overrated",
+  "noofreplies": 2,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T06:39:10.057Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:06:35.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657168cad3f0f8420e26a942"
+  },
+  "userid": "6571603ad3f0f8420e26a7a9",
+  "postid": "657167c1d3f0f8420e26a8d7",
+  "parentid": "6571688ed3f0f8420e26a92a",
+  "content": "Yeah but Sam Bahadur is really a good movie",
+  "noofreplies": 0,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T06:40:10.951Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:55:05.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65716a4dd3f0f8420e26a9d3"
+  },
+  "userid": "6571603ad3f0f8420e26a7a9",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": "657162edd3f0f8420e26a86d",
+  "content": "Future of Indian team bowling is safe!",
+  "noofreplies": 1,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T06:46:37.829Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:56:32.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65716ca0d3f0f8420e26aaa9"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": "65716a4dd3f0f8420e26a9d3",
+  "content": "Indian ODI team still needs a lot of work..",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T06:56:32.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T06:56:32.535Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717080d3f0f8420e26ab09"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "6571621cd3f0f8420e26a80a",
+  "parentid": null,
+  "content": "hope things get better",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T07:13:04.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:13:04.530Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717126d3f0f8420e26ab23"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "65716550d3f0f8420e26a8a7",
+  "parentid": null,
+  "content": "the situation in Ukraine is very tense",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T07:15:50.946Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:15:50.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657173d5d3f0f8420e26abc9"
+  },
+  "userid": "657171dad3f0f8420e26ab48",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": "6570a3340e7079ef5eaba8ea",
+  "content": "I hope he can secure his place in playing 11.",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T07:27:17.709Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T07:27:17.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717c29d3f0f8420e26aca3"
+  },
+  "userid": "65717a82d3f0f8420e26ac64",
+  "postid": "6571794ed3f0f8420e26ac3e",
+  "parentid": null,
+  "content": "Android is far better that iphone",
+  "noofreplies": 1,
+  "upvote": 0,
+  "downvote": 1,
+  "createdAt": {
+    "$date": "2023-12-07T08:02:49.176Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:00.464Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717c85d3f0f8420e26accb"
+  },
+  "userid": "65717a82d3f0f8420e26ac64",
+  "postid": "65716eeed3f0f8420e26aad2",
+  "parentid": null,
+  "content": "Good description",
+  "noofreplies": 1,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:04:21.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:25:53.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717cc5d3f0f8420e26ad12"
+  },
+  "userid": "65717a82d3f0f8420e26ac64",
+  "postid": "65716698d3f0f8420e26a8c0",
+  "parentid": null,
+  "content": "We will get back to England next time.\n",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:05:25.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:05:25.675Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d01d3f0f8420e26ad93"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "65717bcfd3f0f8420e26ac90",
+  "parentid": null,
+  "content": "thats surprising ",
+  "noofreplies": 2,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:06:25.133Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:11:36.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d0bd3f0f8420e26ada2"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "657167c1d3f0f8420e26a8d7",
+  "parentid": "6571688ed3f0f8420e26a92a",
+  "content": "i thought it was a pretty good movie :)",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:06:35.578Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:06:35.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d1cd3f0f8420e26adcf"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "6571794ed3f0f8420e26ac3e",
+  "parentid": "65717c29d3f0f8420e26aca3",
+  "content": "i agree to some extent ",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:06:52.009Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:06:52.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d3dd3f0f8420e26ae2d"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "657172bcd3f0f8420e26ab61",
+  "parentid": null,
+  "content": "interesting stuff!",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:07:25.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:25.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d4dd3f0f8420e26ae47"
+  },
+  "userid": "65717a82d3f0f8420e26ac64",
+  "postid": "65717bcfd3f0f8420e26ac90",
+  "parentid": "65717d01d3f0f8420e26ad93",
+  "content": "Congress supremacy",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:07:41.582Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:41.582Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d5cd3f0f8420e26ae58"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "6570d45f553a24441da35fde",
+  "parentid": "657162a1d3f0f8420e26a84c",
+  "content": "who even uses Meta anymore lol",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:07:56.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:07:56.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717d8cd3f0f8420e26ae98"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "6570a2880e7079ef5eaba876",
+  "parentid": "65715f04d3f0f8420e26a78d",
+  "content": "true! the UN should come up with a peaceful resolution to solve this conflict ASAP.",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:08:44.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:08:44.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717dc1d3f0f8420e26aec5"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "6571790dd3f0f8420e26ac38",
+  "parentid": null,
+  "content": "i wonder how this will affect the American economy considering its fragile post pandemic state",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:09:37.292Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:09:37.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717dc4d3f0f8420e26aed1"
+  },
+  "userid": "65708d1aab8bf77685f92acc",
+  "postid": "65717d3fd3f0f8420e26ae36",
+  "parentid": null,
+  "content": "Yes I have seen live.\n",
+  "noofreplies": 0,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:09:40.991Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:09:55.694Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717e2cd3f0f8420e26af25"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "65716eeed3f0f8420e26aad2",
+  "parentid": "65717c85d3f0f8420e26accb",
+  "content": "yes a very informative analysis",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:11:24.056Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:11:24.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717e38d3f0f8420e26af2b"
+  },
+  "userid": "65708d1aab8bf77685f92acc",
+  "postid": "65717bcfd3f0f8420e26ac90",
+  "parentid": "65717d01d3f0f8420e26ad93",
+  "content": "What do you think about it's pros and cons ?",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:11:36.603Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:11:36.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65717e84d3f0f8420e26af36"
+  },
+  "userid": "65708d1aab8bf77685f92acc",
+  "postid": "65717bcfd3f0f8420e26ac90",
+  "parentid": null,
+  "content": "First congress CM of Telangana.\n",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:12:52.184Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:12:52.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657180e1d3f0f8420e26aff5"
+  },
+  "userid": "65708d1aab8bf77685f92acc",
+  "postid": "65717bcfd3f0f8420e26ac90",
+  "parentid": null,
+  "content": "The results were enthusiating",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:22:57.729Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:22:57.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65718229d3f0f8420e26b10a"
+  },
+  "userid": "65716c00d3f0f8420e26aa55",
+  "postid": "657181f9d3f0f8420e26b0d6",
+  "parentid": null,
+  "content": "china needs to stop with all the viruses now....",
+  "noofreplies": 0,
+  "upvote": 1,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:28:25.724Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:28:31.590Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65718246d3f0f8420e26b120"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "65718078d3f0f8420e26afc2",
+  "parentid": null,
+  "content": "china's authoritarian government always fails to provide transparency!!!",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:28:54.197Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:28:54.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65718260d3f0f8420e26b145"
+  },
+  "userid": "65716e67d3f0f8420e26aac5",
+  "postid": "65717e15d3f0f8420e26af17",
+  "parentid": null,
+  "content": "i prefer android tbh ",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T08:29:20.122Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T08:29:20.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6571927ccc0a78fcd22fe8b6"
+  },
+  "userid": "65708d1aab8bf77685f92acc",
+  "postid": "6570a2d97ebb16eab30a8d76",
+  "parentid": "6570a3340e7079ef5eaba8ea",
+  "content": "good work",
+  "noofreplies": 0,
+  "upvote": 0,
+  "downvote": 0,
+  "createdAt": {
+    "$date": "2023-12-07T09:38:04.558Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-07T09:38:04.558Z"
+  },
+  "__v": 0
+}]

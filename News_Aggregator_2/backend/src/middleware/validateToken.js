@@ -2,12 +2,13 @@ const asyncHandler = require("express-async-handler");
 const jwt = require("jsonwebtoken");
 
 const validateToken = asyncHandler(async (req, res, next) => {
+    console.log("cookies : ", req.cookies);
     let token = req.cookies.jwt;
     console.log("Token:", token); 
 
     if (!token) {
         console.error("Token not found");
-        res.redirect('login');
+        res.redirect('/login');
         res.status(400);
         throw new Error("Token not found");
    

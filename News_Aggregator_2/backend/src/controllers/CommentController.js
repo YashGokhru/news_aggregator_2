@@ -73,7 +73,18 @@ const showreplies = async (req, res) => {
   }
 };
 
+const showsinglecomment = async (req,res) => {
+  try{
+    const commid = req.params._id;
+    const comment = await Comment.findById(commid);
+    const user = await User.findById(comment.userid).select('_id name').lean();
+    const replies = await Comment.find({parentid : commid}).select('_id').lean();
 
+    res.json({comment, user, replies});
+  }catch(error){
+    res.status(500).json({error : error});
+  }
+}
 
 const vote = async (req, res) => {
     const { vote } = req.body;
@@ -131,5 +142,6 @@ const vote = async (req, res) => {
 module.exports = {
   replytocomment,
   showreplies,
+  showsinglecomment,
   vote
 };
